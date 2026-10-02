@@ -21,6 +21,5 @@
 ---
 
 ### 📊 GitHub Stats
-![Rehana's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivlinrehana&show_icons=true&theme=radial)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivlinrehana&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
 
